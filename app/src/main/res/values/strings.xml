@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Be Quiet Please! Noise Alert</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_record_sound">RecordSound</string>
+    <string-array name="options">
+        <item>Please be quiet</item>
+        <item>Lullaby</item>
+    </string-array>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+</resources>
